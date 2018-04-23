@@ -1,0 +1,134 @@
+Command: my-tweets
+---------------------------
+---------------------------
+---------------------------
+@FullStackJoe: If you like infinite loop jokes, check this one out.  | Created At: Sun Apr 22 21:56:44
+---------------------------
+---------------------------
+@FullStackJoe: Why is it that women find C to be more attractive than Java?
+Because C doesn’t treat them like objects.  | Created At: Sun Apr 22 21:56:31
+---------------------------
+---------------------------
+@FullStackJoe: Why aren’t octal jokes funny?
+Because 7 10 11.  | Created At: Sun Apr 22 21:55:53
+---------------------------
+---------------------------
+@FullStackJoe: A programmer started to cuss
+Because getting to sleep was a fuss
+As he lay there in bed
+Looping ’round in his head… https://t.co/cylqQHEBaU  | Created At: Sun Apr 22 21:55:33
+---------------------------
+---------------------------
+@FullStackJoe: An int, a char, and a string walk into a bar and order some drinks.
+A short while later, the int and char start hit… https://t.co/JyTSzlpHcL  | Created At: Sun Apr 22 21:55:15
+---------------------------
+---------------------------
+@FullStackJoe: There’s no place like 127.0.0.1  | Created At: Sun Apr 22 21:54:37
+---------------------------
+---------------------------
+@FullStackJoe: A group of DBAs walk into a diner.
+One waved over the waiter: “Can we join these tables?”.  | Created At: Sun Apr 22 21:54:12
+---------------------------
+---------------------------
+@FullStackJoe: Q: What do you call a collection that has no methods and doesn’t do anything?
+A: A listless list  | Created At: Sun Apr 22 21:54:01
+---------------------------
+---------------------------
+@FullStackJoe: What kind of modem did Jimi Hendrix have?
+A purple Hayes.  | Created At: Sun Apr 22 21:53:47
+---------------------------
+---------------------------
+@FullStackJoe: What do you call it when a programmer throws up at IHOP?
+A stack overflow.  | Created At: Sun Apr 22 21:53:31
+---------------------------
+---------------------------
+@FullStackJoe: Why did the programmer quit his job?
+Because he didn’t get arrays.  | Created At: Sun Apr 22 21:53:22
+---------------------------
+---------------------------
+@FullStackJoe: Why do Java programmers wear glasses?
+Because they don’t C#!  | Created At: Sun Apr 22 21:53:12
+---------------------------
+---------------------------
+@FullStackJoe: In Canadian hexadecimal, why is 6 afraid of 7?
+Because 7 8 9 A?  | Created At: Sun Apr 22 21:50:55
+---------------------------
+---------------------------
+@FullStackJoe: Why do programmers confuse Halloween with Christmas?
+Because OCT 31 = DEC 25.  | Created At: Sun Apr 22 21:50:45
+---------------------------
+---------------------------
+@FullStackJoe: In order to understand recursion you must first understand recursion.  | Created At: Sun Apr 22 21:50:35
+---------------------------
+---------------------------
+@FullStackJoe: There are 10 kinds of people in this world: Those who understand binary, those who don’t.  | Created At: Sun Apr 22 21:50:20
+---------------------------
+---------------------------
+@FullStackJoe: An SEO expert walks into a bar, pub, public house, inn, restaurant, club.  | Created At: Sun Apr 22 21:50:03
+---------------------------
+---------------------------
+@FullStackJoe: A guy walks into a bar and asks for 1.014 root beers.
+The bartender says, “I’ll have to charge you extra, that’s a… https://t.co/wFveWnY68D  | Created At: Sun Apr 22 21:49:53
+---------------------------
+---------------------------
+@FullStackJoe: Knock, knock.
+Race condition.
+Who’s there.  | Created At: Sun Apr 22 21:49:31
+---------------------------
+---------------------------
+@FullStackJoe: A common programming solution is to use threads. But then, two ‘llyou hav erpoblesm.  | Created At: Sun Apr 22 21:49:18
+---------------------------
+---------------------------
+Command: spotify-this-song
+Search Term: killing all the flies
+---------------------------
+---------------------------
+Artist: Mogwai
+Song: Killing All the Flies
+Preview Url: https://p.scdn.co/mp3-preview/8d8197c28585fdfe8a5185fab4565f2ba919721e?cid=390324385bd542de86e725e5f34da2df
+Album: Happy Songs for Happy People
+---------------------------
+---------------------------
+Command: spotify-this-song
+Search Term: Ace of Base by Default
+---------------------------
+---------------------------
+Artist: Ace of Base
+Song: The Sign - The Remix
+Album: The Sign (The Remixes)
+Preview Url: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=390324385bd542de86e725e5f34da2df
+---------------------------
+---------------------------
+Command: movie-this
+Search Term: The Lion King
+---------------------------
+---------------------------
+Title: The Lion King
+Release Year: 1994
+IMdB Rating: 8.5
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+---------------------------
+---------------------------
+Command: movie-this
+Search Term: Mr. Nobody by default
+---------------------------
+---------------------------
+Title: Mr. Nobody
+Release Year: 2009
+IMdB Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------
+---------------------------
+Song: I Want It That Way
+Artist: Scott Bradlee's Postmodern Jukebox
+Preview Url: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=390324385bd542de86e725e5f34da2df
+Album: PMJ Is For Lovers: The Love Song Collection
+---------------------------
